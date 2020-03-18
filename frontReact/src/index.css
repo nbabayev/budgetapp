@@ -1,0 +1,35 @@
+.top-side {
+  background-color: #fff;
+  background-image: url("/backimage.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: auto;
+}
+
+.budget-total {
+  max-width: 600px;
+  width: 96%;
+  margin: 0 auto;
+}
+
+.budget-add-form {
+  max-width: 800px;
+  width: 96%;
+  margin: 0 auto;
+}
+
+.item-note {
+  float: left;
+}
+
+.item-budget {
+  float: right;
+}
+
+.budget-list-item {
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 15px 0;
+  font-size: 17px;
+}
